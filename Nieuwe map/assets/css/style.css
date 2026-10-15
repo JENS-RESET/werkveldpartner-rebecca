@@ -1,9 +1,12 @@
 body{
-    background-color: #512201;
+    background-color: #3f1900;
     margin: 0;
 }
 
 a{
-    background-color: #ffae00;
+    background-color: #e6a02c;
     text-decoration: none;
+    font-family: rubik serif;
+    color: #3f1900;
+    padding: 1%;
 }
