@@ -10,3 +10,8 @@ a{
     color: #3f1900;
     padding: 1%;
 }
+nav{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
