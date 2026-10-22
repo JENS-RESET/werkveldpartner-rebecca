@@ -26,6 +26,7 @@ nav{
     font-weight: bold;
     font-size: 175%;
     padding-left: 5%;
+    box-shadow: 0 0 10px #5E503F;
 }
 
 nav img{
@@ -35,8 +36,10 @@ nav img{
 }
 
 #rebeccasectie{
-    margin-top: 5%;
+    margin-top: 2%;
     display: flex;
+    margin-left: 2%;
+    padding: 2%;
     table{
         font-size: large;
         text-align: center;
@@ -44,12 +47,17 @@ nav img{
         color: #5E503F;
         border-bottom-left-radius: 5%;
         border-top-left-radius: 5%;
+
         .BorderBottom {
             padding: 10px;
             border-bottom: 1px solid #5E503F;
         }
     }
     img{
+        width: 30%;
+        height: auto;
+        border-top-right-radius: 3%;
+        border-bottom-right-radius: 3%
 
     }
 }
