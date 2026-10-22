@@ -1,12 +1,12 @@
 body{
     background-color: #EAE0D5;
     margin: 0;
+    font-family: "Dubai", sans-serif;
 }
 
 a {
     background-color: #C6AC8F;
     text-decoration: none;
-    font-family: "Dubai", sans-serif;
     color: #5E503F;
     padding: 2.5% 3% 0.5%;
     border-bottom: solid 0 rgba(0, 0, 0, 0);
@@ -32,4 +32,24 @@ nav img{
     width: 15%;
     height: auto;
     padding-right: 4%;
+}
+
+#rebeccasectie{
+    margin-top: 5%;
+    display: flex;
+    table{
+        font-size: large;
+        text-align: center;
+        background-color: #C6AC8F;
+        color: #5E503F;
+        border-bottom-left-radius: 5%;
+        border-top-left-radius: 5%;
+        .BorderBottom {
+            padding: 10px;
+            border-bottom: 1px solid #5E503F;
+        }
+    }
+    img{
+
+    }
 }
