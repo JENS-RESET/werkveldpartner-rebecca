@@ -36,10 +36,7 @@ nav img{
 }
 
 #rebeccasectie{
-    margin-top: 2%;
     display: flex;
-    margin-left: 2%;
-    padding: 2%;
     table{
         font-size: large;
         text-align: center;
@@ -60,4 +57,9 @@ nav img{
         border-bottom-right-radius: 3%
 
     }
+}
+
+article{
+    display: flex;
+    justify-content: space-around;
 }
